@@ -10,7 +10,7 @@ Built With
 Usage
 -----
 
-Compile file
+Run script
 
     python photo_editor.py
 
